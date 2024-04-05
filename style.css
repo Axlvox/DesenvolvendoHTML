@@ -23,3 +23,14 @@
     left: 70px;
     z-index: 1;
 }
+
+.wallpaper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('https://i.imgur.com/ku1Q0f1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
