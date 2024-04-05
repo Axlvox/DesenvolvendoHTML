@@ -1,0 +1,25 @@
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.title {
+    text-align: center;
+    color: green;
+}
+
+#glass {
+    width: 250px;
+    height: 50px;
+    backdrop-filter: blur(5px);
+    border-radius: 30px;
+    background: linear-gradient(100deg, rgba(0,0,0,.2),rgba(0,0,0,.2));
+    box-shadow: 0 10px 26px 0 rgba(0,0,0,.70);
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    z-index: 1;
+}
