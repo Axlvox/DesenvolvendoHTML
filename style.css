@@ -32,6 +32,7 @@ body, html {
 .titlePage {
     font-weight: bold;
     color: rgba(19, 19, 19, 0.945);
+    text-shadow: 2px 2px 4px rgba(5, 121, 11, 0.349);
 }
 
 .title {
